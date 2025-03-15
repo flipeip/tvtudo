@@ -1,2 +1,0 @@
-/Users/insightgpc/projetos/tvtudo/android/app/.cxx/RelWithDebInfo/48206y2v/armeabi-v7a/CMakeFiles/edit_cache.dir
-/Users/insightgpc/projetos/tvtudo/android/app/.cxx/RelWithDebInfo/48206y2v/armeabi-v7a/CMakeFiles/rebuild_cache.dir
