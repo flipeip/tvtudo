@@ -1,0 +1,20 @@
+{
+  "buildFiles": [
+    "/Users/insightgpc/tools/flutter/packages/flutter_tools/gradle/src/main/groovy/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/insightgpc/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/insightgpc/projetos/tvtudo/android/app/.cxx/RelWithDebInfo/48206y2v/x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/insightgpc/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/insightgpc/projetos/tvtudo/android/app/.cxx/RelWithDebInfo/48206y2v/x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {}
+}
